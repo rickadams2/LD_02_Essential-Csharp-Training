@@ -12,4 +12,5 @@ Essential C# Training
 * Debugging 
 * Exceptions handeling  
 
-Read the readme[https://github.com/rickadams2/LD_02_Essential-Csharp-Training/tree/master/temp] file in the # temp folder for instructions.  
+Read the readme
+Or leave it empty and use the [https://github.com/rickadams2/LD_02_Essential-Csharp-Training/tree/master/temp] file in the # temp folder for instructions.  
