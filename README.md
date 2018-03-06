@@ -12,4 +12,6 @@ Essential C# Training
 * Debugging 
 * Exceptions handeling  
 
-Read the readme see the [D_02_Essential-Csharp-Training/tree/master/temp] file in the # temp folder for instructions.  
+
+Copy the temp folder to the C: drive, then run the exe. 
+Rename test2 to test the exception handeling and the unit testing via NLog
