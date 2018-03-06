@@ -1,0 +1,6 @@
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTraining\bin\Debug\EssentialTraining.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTraining\bin\Debug\EssentialTraining.pdb
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTraining\obj\Debug\EssentialTraining.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTraining\obj\Debug\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTraining\obj\Debug\EssentialTraining.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTraining\obj\Debug\EssentialTraining.pdb

@@ -1,0 +1,15 @@
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.pdb
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\EssentialTraining.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\EssentialTraining.pdb
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.dll
+C:\Users\thead\source\repos\LD_02_Essential-C#Training\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.pdb
